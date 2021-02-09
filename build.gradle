@@ -9,6 +9,10 @@
 plugins {
     // Apply the java-library plugin to add support for Java Library
     id 'java-library'
+    //según https://github.com/junit-team/junit5-samples/blob/main/junit5-jupiter-starter-gradle/build.gradle
+    id 'eclipse'
+    //para poder publicar paquetes en github
+    id 'maven-publish'
 }
 
 repositories {
