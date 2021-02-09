@@ -5,3 +5,5 @@ Joshi y que se encuentra disponible en:
 https://www.javacodegeeks.com/2015/09/java-design-patterns.html
 El patrón aquí presentado es FactoryMethodPattern disponible en https://www.javacodegeeks.com/2015/09/factory-method-design-pattern.html
 "# FactoryMethodPattern" 
+
+Se ha intentado crear la prueba de ResponseXMLParser usando assertEquals, con etiqueta test y display name. Por razones de tiempo (y poca experiencia en programación) no me ha sido posible culminar. 

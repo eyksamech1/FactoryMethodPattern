@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.factorymethodpattern;
+package FactoryMethodPattern;
 
 public class ErrorXMLParser implements XMLParser{
 
